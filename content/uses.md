@@ -1,6 +1,6 @@
 ---
 title: Uses
-date: 2023-10-24
+date: 2024-04-06
 hide_date: true
 reading_time: false
 ---
@@ -13,9 +13,10 @@ I often get asked about what software or hardware I use, so this page will serve
 
 ## Editor + Terminal
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+- IntelliJ IDEA
+- Visual Studio Code
+- Cmder
+- iTerm2 (with Oh My Zsh)
 
 ## Desktop Apps
 
