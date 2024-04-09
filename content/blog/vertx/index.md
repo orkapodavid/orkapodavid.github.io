@@ -1,6 +1,6 @@
 ---
 title: Vertx Learning Notes
-summary: Hello World!
+summary: Vertx
 date: 2024-04-06
 authors:
   - admin
